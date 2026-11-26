@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Arquivos locais do banco de dados SQLite
+*.db-shm
+*.db-wal
+
+# Projeto antigo Windows Forms - mantido apenas como backup local
+Biblioteca.Presentation/
